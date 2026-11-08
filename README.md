@@ -1,32 +1,95 @@
-<h1 align="center">Hi 👋, I'm Kusal Ranasinghe</h1>
-<h3 align="center">A Computer Science Undergraduate at University of Sri Jayewardenepura</h3>
+a id="top"></a>
+<div align="center">Hi, I'm Kusal Ranasinghe 👋
+Software Developer | Full-Stack Developer | Problem Solver
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Software+Developer;Full-Stack+Web+Application+Developer;React+%7C+Java+%7C+Spring+Boot;Building+Ideas+Into+Software" alt="Typing introduction" /><p>
+  <a href="https://myportfolio2-five-smoky.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-3B82F6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F172A" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/Kusalranasinghe">
+    <img src="https://img.shields.io/badge/GitHub-Follow-22D3EE?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" alt="GitHub"/>
+  </a>
+</p><p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,spring,php,mysql,git,github&theme=dark" alt="Technology stack"/>
+</p><img src="https://komarev.com/ghpvc/?username=Kusalranasinghe&label=Profile%20Views&color=3B82F6&style=flat-square" alt="Profile views"/><sub><code>Building practical solutions through code, creativity, and continuous learning.</code></sub>
+</div>🧑‍💻 About Me
+I'm Kusal Ranasinghe, a software developer interested in designing and building useful, user-friendly applications. I enjoy working on both frontend and backend development, solving problems, and learning modern technologies by creating real-world projects.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kusalranasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="kusalranasinghe" /> </p>
+My main interests include web application development, full-stack development, database management, and software engineering. I focus on writing clean, maintainable code and continuously improving my technical skills.
+- 🔭 Currently working on full-stack web application projects.
+- 🌱 Improving my skills in React, Java, Spring Boot, and modern web technologies.
+- 💡 Interested in turning ideas into practical software solutions.
+- 🎯 Focused on problem-solving, clean code, and continuous learning.
+🧰 Technologies & Tools
+Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,php,c&theme=dark" alt="Java, JavaScript, PHP and C"/>
+</p>Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap&theme=dark" alt="HTML, CSS, JavaScript, React and Bootstrap"/>
+</p>Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,php&theme=dark" alt="Java, Spring Boot and PHP"/>
+</p>Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL"/>
+</p>Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,figma,vercel&theme=dark" alt="VS Code, IntelliJ IDEA, Git, GitHub, Figma and Vercel"/>
+</p>Core Concepts
+- Object-Oriented Programming (OOP)
+- Data Structures and Algorithms
+- Database Management Systems (DBMS)
+- Frontend and Backend Development
+- Responsive Web Design
+- Problem-Solving
+🚀 Featured Projects
+Here are some of the projects I have worked on:
+⛽ FuelPass – Fuel Station Management System
+A web-based system designed to manage fuel stations, vehicle registrations, fuel requests, fuel stock, and fuel transactions. The project focuses on simplifying fuel management through role-based dashboards and organized data handling.
 
+Technologies: React, Java, Spring Boot, MySQL
+🩸 E-Blood Donation Management System
+A web application designed to support blood donation activities by managing donor information and blood donation-related records.
 
+Technologies: HTML, CSS, JavaScript, PHP, MySQL, Bootstrap
+📚 Library Management System
+A web-based application for managing library information and records, with features for organizing data and supporting common library operations.
 
-- 🔭 I’m currently working on [E-blood donation System](https://github.com/Kusalranasinghe/E-blood-donation)
+Technologies: HTML, CSS, JavaScript, PHP, MySQL
+🌊 Flood Relief Management System
+A web application designed to manage flood relief requests and related information, helping organize requests and support administrative coordination.
 
-- 🌱 I’m currently learning **Javascript , php and MySql**
+Technologies: PHP, MySQL, Bootstrap
+🎓 University LMS
+A learning management system concept focused on organizing academic information and supporting online learning-related activities.
 
-- 👯 I’m looking to collaborate on [Library Management System](https://github.com/Kusalranasinghe/Sarasavi-Library)
+Technologies: HTML, CSS, JavaScript, PHP, MySQL
+<p align="center">
+  <a href="https://github.com/Kusalranasinghe?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Repositories-→-3B82F6?style=for-the-badge&labelColor=0F172A" alt="View all repositories"/>
+  </a>
+  <a href="https://myportfolio2-five-smoky.vercel.app/">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-→-22D3EE?style=for-the-badge&labelColor=0F172A" alt="Visit portfolio"/>
+  </a>
+</p>📊 GitHub Analytics
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kusalranasinghe&show_icons=true&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=F3F4F6&icon_color=3B82F6" alt="GitHub statistics"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kusalranasinghe&layout=compact&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=F3F4F6" alt="Most used programming languages"/>
+</div><div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Kusalranasinghe&hide_border=true&background=0F172A&ring=22D3EE&fire=8B5CF6&currStreakLabel=F3F4F6&sideLabels=9CA3AF&currStreakNum=F3F4F6&sideNums=F3F4F6&dates=9CA3AF" alt="GitHub contribution streak"/>
+</div>🤝 Connect With Me
+<p align="center">
+  <a href="https://github.com/Kusalranasinghe">
+    <img src="https://img.shields.io/badge/GitHub-Kusalranasinghe-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://myportfolio2-five-smoky.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-3B82F6?style=for-the-badge&logo=vercel" alt="Portfolio"/>
+  </a>
+</p><div align="center">✨ Thanks for visiting my profile!
+Let's build something meaningful with technology.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Kusalranasinghe/portfolio](https://github.com/Kusalranasinghe/portfolio)
-
-- 💬 Ask me about **html, css and javascript**
-
-- 📫 How to reach me **dananjayakusal39@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kusal ranasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kusal ranasinghe" height="30" width="40" /></a>
-<a href="https://fb.com/kusal d ranasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kusal d ranasinghe" height="30" width="40" /></a>
-<a href="https://instagram.com/kusal_muzic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kusal_muzic" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kusal d ranasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kusal d ranasinghe" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<a href="#top">⬆ Back to top</a>
+</div>
 
 
 
